@@ -1,0 +1,26 @@
+<html>
+<title>
+Artificial intelligence
+</title>
+<p1>
+Full Spectrum Command (FSC) is a “commercial platform training aid” developed by the USC Institute for Creative
+Technologies and Quicksilver Software, Inc. for the U.S.Army. A commercial platform training aid is a computer
+game designed not for entertainment, but as a training tool to achieve a targeted training objective. Like most video games and training simulations, Full Spectrum Command includes a significant artificial intelligence (AI) system that controls the behavior of the user’s subordinate units and the
+opposing forces. 
+</p1>
+<p2>
+This complex AI system, which controls up to 200 entities and uses 60% of the CPU’s processingcycles, is an excellent example of game industry AI technology, a branch of AI little studied by the academic research community. In addition, Full Spectrum Command includes an Explainable AI (XAI) feature that is the result
+of an academic research effort motivated by previous work in systems such as Mycin (Shortliffe 1976), Debrief
+(Johnson 1994), and the Explainable Expert System (Swartout, Paris and Moore 1994). The goal of this paper
+is to describe the XAI system and its application in Full Spectrum Command. 
+</p2>
+
+<p3>
+
+However, this requires an understanding of the AI system in FSC that controls the
+Non-Player Characters (NPCs) (i.e. the computer controlled soldiers). This NPC AI is interesting in its own
+right as an example of a game industry AI system,including the methodologies and technologies employed by
+game developers. 
+
+</p3>
+</html>

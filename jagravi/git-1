@@ -9,7 +9,8 @@ game designed not for entertainment, but as a training tool to achieve a targete
 opposing forces. 
 </p1>
 <p2>
-This complex AI system, which controls up to 200 entities and uses 60% of the CPU’s processingcycles, is an excellent example of game industry AI technology, a branch of AI little studied by the academic research community. In addition, Full Spectrum Command includes an Explainable AI (XAI) feature that is the result
+
+This  is an excellent example of game industry AI technology, a branch of AI little studied by the academic research community. In addition, Full Spectrum Command includes an Explainable AI (XAI) feature that is the result
 of an academic research effort motivated by previous work in systems such as Mycin (Shortliffe 1976), Debrief
 (Johnson 1994), and the Explainable Expert System (Swartout, Paris and Moore 1994). The goal of this paper
 is to describe the XAI system and its application in Full Spectrum Command. 
